@@ -14,6 +14,8 @@
         <p>Im happy to see you</p>
         <p>See you soon</p>
         <p>Me too darling</p>
+        <p>I love you so much</p>
+        <p>I need u bb</p>
     </main>
 </body>
 </html>
