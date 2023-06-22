@@ -30,6 +30,7 @@
         <p>alfa</p>
         <p>beta</p>
         <p>Sweet nothing</p>
+        <p>Summer</p>
     </main>
 </body>
 </html>
